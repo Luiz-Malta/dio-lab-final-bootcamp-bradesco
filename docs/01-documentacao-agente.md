@@ -5,34 +5,33 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Vou trabalhar em um agente que faz recomendações de investimentos para montagem de uma carteira de investimentos.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+Um agente que dá as opções de investimentos pautado no perfil e informações fornecidas pelo usuário.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Qualquer um que tenha interesse em montar uma carteira de investimentos
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
-
+Investor
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+De maneira educada, mas sempre com as informações técnicas. Assim como um bom professor, usando um tom amigável para gerar simpatia no usuário, mas sendo objetivo ao passar o conhecimento.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Técnico.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
