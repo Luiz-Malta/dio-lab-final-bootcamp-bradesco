@@ -35,10 +35,10 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
-| `transacoes.csv` | CSV | Histórico de transações do cliente |
-| `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
-| `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
-| `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
+| `transacoes.csv` | CSV | Analisar o padrão de comportamento do usuário para enriquecer a informação. |
+| `historico_atendimento.csv` | CSV | Histórico de transações do cliente, contextualizando as interações anteriores para dar continuidade mais fluia ao atendimento. |
+| `perfil_investidor.json` | JSON | Perfil e preferências do cliente melhorando a personalização|
+| `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis no banco|
 
 Você pode adaptar ou expandir esses dados conforme seu caso de uso.
 
